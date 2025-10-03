@@ -429,7 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Discord.py](https://discordpy.readthedocs.io/) - Python Discord API wrapper
 - Discord Developer Community
 - All contributors and users
-
+- we created this project for entertainment purposes 😁
 ---
 
 ## 📞 Support
